@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhEat</string>
+    <string name="app_id">j2pQTp8yLEvxtA_vyWFuZA</string>
+    <string name="app_secret">OKr3OiPApcAPaVO2rTYrNh11eoKCl6uSa5NSoAvT3kbeVXrNFhPvcLBFvNVmPq9y</string>
+    <string name="welcome_screen_title">Where to Eat.</string>
+    <string name="error_title">Oh no!</string>
+    <string name="error_message">No Network Available</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="access_token">0EXuSp26g-wuDHh-OqF7b7foQbTvGB83dh07t_QjucYTHVZ7WNJl6JjKZUO6TEQ1IccKh2CZIEEDo1StkgIGd65J7ITGwmsZl5C1i_gjnzCZhpdyR3ockIqwsbIhWXYx</string>
+</resources>
